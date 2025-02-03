@@ -33,7 +33,7 @@ A Python-based tool to fetch, validate, and filter proxies from multiple sources
 ### Steps to Install
 #### Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/proxy-fetcher-validator.git
+git clone [https://github.com/yourusername/proxy-fetcher-validator.git](https://github.com/rKrishan99/Proxy-collector-using-Python.git)
 cd proxy-fetcher-validator
 ```
 
@@ -137,7 +137,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue in the **GitHub Issues** section. Alternatively, you can contact me directly via email: `your.email@example.com`.
+If you encounter any issues or have questions, feel free to open an issue in the **GitHub Issues** section. Alternatively, you can contact me directly via email: rkrishan894@gmail.com`.
 
 ## Acknowledgments
 
